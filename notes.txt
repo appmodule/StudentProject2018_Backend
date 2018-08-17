@@ -1,0 +1,11 @@
+Localhost chanel:
+ssh -R 80:localhost:3000 serveo.net
+
+Remote DB:
+demo:astrewq5@ds245971.mlab.com:45971
+
+Server:
+ssh root@hq.appmodule.rs -p 923
+Portovi za deploy:
+2031
+2032
